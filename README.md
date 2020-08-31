@@ -16,6 +16,13 @@ Consider a two-fold symmetric cube. The front faces can be aligned at any angle 
 
 Likewise, we can use isometric viewpoints to increase understanding of the complex visual information inherent in symmetries and high-dimensional feature spaces. We can expand the number of cube faces in pairs to form an n-dimensional representation that can be viewed either from a global "gods-eye" perspective or a local, first-person view. From a local perspective, we can view a large number of symmetric dimensions serially (two at a time). From a gods-eye view, we can view this high-dimensional space not as a series of disjointed surfaces, but as a network with compressed visual information.
 
+__Invariance to Isometric Transformation:__
+
+
+__Affine and Deformed Perspectives:__
+
+
+
 __Gibsonian Information:__  
 We can measure the information inhenert in such viewpoints as a function of direct percpetion. Thus, we use a measure called Gibsonian Information to characterize the effects of extrusion, rotation, and symmetry as opposed to a flat background. Gibsonian information involves motion cues, which distinguish background from salient features. Viewpoint networks are particularly amenable to this approach, as the effects of perspective and relative distance define the network topology.
 
