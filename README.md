@@ -1,6 +1,6 @@
 This repository consists of two related topics: Information Isometry and Isometric Viewpoint Networks for Representation.
 
-Much of this content has been included in the following manuscript [OpenReview link](https://openreview.net/) and lecture [RG link](https://www.researchgate.net/publication/346955430_Observer-dependent_Models)
+Much of this content has been included in the following manuscript ([OpenReview link](https://openreview.net/)) and lecture ([RG link](https://www.researchgate.net/publication/346955430_Observer-dependent_Models))
 
 #### Information Isometry
 
